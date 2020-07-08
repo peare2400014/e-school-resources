@@ -1,0 +1,101 @@
+.imga{
+    width: 198.07px;
+    height: 59px;
+    
+}
+.azaira{
+  color: white; 
+padding: 12px 28px;
+width: 104px;
+height: 43px;
+left: 1201px;
+top: 25px;
+
+background: #21B573;
+border-radius: 33px;
+}
+.container{
+    
+width: 1440px;
+height: 576px;
+left: 0px;
+top: 0px;
+
+background: #F0FFF0;
+}
+.illus{
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+    width: 95%;
+    height: 95%;
+}
+.green{
+    color: #21B573;
+}
+h3{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+}
+.smalli{
+    color: #FD511A;
+}
+.azaira2{
+    width: 153px;
+height: 43px;
+left: 205px;
+top: 470px;
+color: white;
+background: #21B573;
+border-radius: 33px;
+}
+
+  .imgi{
+      width: 50%;
+      height: 50%;
+  }
+  .container1{
+      margin-top: 75px;
+      margin-left: 100px;
+      margin-right: 100px;
+  }
+  .card{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .align-online{
+      text-align: center;
+  }
+  .imgaman{
+    width: 120px;
+    height: 120px;
+  }
+  .copi{
+      text-align: center;
+      color: white;
+  }
+  .black-bg{
+    width: 1400px;
+    height: 340px;
+    background: #282531;
+    width: 100%;
+    margin-top: 100px;
+  }
+  h6{
+      color: white;
+  }
+  .row12{
+      margin-top: 50px;
+  }
+  .row7{
+    margin-top: 50px;
+}
+.ma{
+    margin-top: 50px;
+}
